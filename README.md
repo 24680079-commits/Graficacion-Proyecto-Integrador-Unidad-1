@@ -100,24 +100,8 @@ y = centro_y + radio * math.sin(ang)
 ```
 Con esto generé puntos sobre una circunferencia utilizando la representación paramétrica:
 
-𝑥
-=
-𝑟
-cos
-⁡
-(
-𝜃
-)
-x=rcos(θ)
-𝑦
-=
-𝑟
-sin
-⁡
-(
-𝜃
-)
-y=rsin(θ)
+𝑥 = 𝑟 cos(𝜃) x=rcos(θ)
+𝑦=𝑟sin⁡(𝜃) y=rsin(θ)
 
 De esta manera, el pasillo dejó de ser lineal y pasó a tener una forma en "U".
 
